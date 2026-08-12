@@ -18,5 +18,29 @@
     "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/MovieBox/MovieBox.png",
     "apiVersion": 1,
     "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9"
-  }
+  },
+{
+  "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTube.png",
+  "jarFileSize": 46472,
+  "fileHash": "sha256-a246eb1584cec9e69ba8c50136b9e8dc11a2fc0ab225710c31ad66c2ec4f4efe",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+  "fileSize": 13152,
+  "status": 1,
+  "authors": [
+    "Prime"
+  ],
+  "tvTypes": [
+    "Others",
+    "Live",
+    "TvSeries"
+  ],
+  "version": 1,
+  "internalName": "YouTube",
+  "jarUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTubeProvider.jar",
+  "description": "Watch YouTube in Cloudstream",
+  "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTubeProvider.cs3",
+  "name": "YouTube",
+  "jarHash": "sha256-0d83e79f196464e50b8b1aa4c13683b2428fc3556651a0d190981c1149b3ea41"
+}
 ]
