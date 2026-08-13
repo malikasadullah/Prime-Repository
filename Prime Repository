@@ -4,6 +4,6 @@
   "description": "Watch content from Prime Repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/refs/heads/builds/plugins.json"
+    "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/refs/heads/master/Prime%20Plugins"
   ]
 }
