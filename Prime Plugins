@@ -42,5 +42,24 @@
   "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTubeProvider.cs3",
   "name": "YouTube",
   "jarHash": "sha256-0d83e79f196464e50b8b1aa4c13683b2428fc3556651a0d190981c1149b3ea41"
-}
+},
+ {
+    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/Black%20Plugins/Xhamster/Xhamster.cs3",
+    "status": 1,
+    "version": 11,
+    "name": "Xhamster",
+    "internalName": "Xhamster",
+    "authors": [
+      "Prime"
+    ],
+    "description": "Watch content from Xhamster",
+    "fileSize": 21059,
+    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=xhamster.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-a6553a86f516fdbd487ecfc938308e0513731d7edcef019f5a4df525f9c30d97"
+  }
 ]
