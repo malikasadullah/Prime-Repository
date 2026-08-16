@@ -4,6 +4,6 @@
   "description": "Cloudstream Testing Repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/refs/heads/builds/Testing%20Plugins"
+    ""
   ]
 }
