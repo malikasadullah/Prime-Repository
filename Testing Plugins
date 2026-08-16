@@ -1,0 +1,23 @@
+[
+   {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
+        "fileHash": "sha256-7a805cb095bbb449b8f31922fdcfa2dfee8eba3ca8b2fdb296802a5ea7a04f6a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/malikasadullah/repository5",
+        "fileSize": 72688,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 76,
+        "internalName": "CNC Verse",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/malikasadullah/repository5/builds/CNC%20Verse.cs3",
+        "name": "CNC Verse"
+    }
+]
