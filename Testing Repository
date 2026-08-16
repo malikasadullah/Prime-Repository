@@ -1,0 +1,9 @@
+{
+  "name": "Testing Repository",
+  "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/Prime.jpeg",
+  "description": "Cloudstream Testing Repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Devilaiger/Server_for_Korean_insta3/refs/heads/builds/plugins.json"
+  ]
+}
