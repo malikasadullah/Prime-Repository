@@ -9,7 +9,6 @@
       "Prime"
     ],
     "description": "Watch content from MovieBox",
-    "fileSize": 72427,
     "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
     "tvTypes": [
       "Movie",
@@ -30,7 +29,6 @@
       "Prime"
     ],
     "description": "Watch content from YouTube",
-    "fileSize": 13152,
     "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
     "tvTypes": [
       "Movie",
