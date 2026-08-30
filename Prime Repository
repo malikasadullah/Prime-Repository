@@ -1,9 +1,9 @@
 {
   "name": "Prime Repository",
-  "iconUrl": "https://github.com/malikasadullah/Prime-Repository/builds/Prime.png",
+  "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/Prime.png",
   "description": "Watch content from Prime Repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/refs/heads/master/Prime%20Plugins"
+    "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/master/Prime%20Plugins"
   ]
 }
