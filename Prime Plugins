@@ -2,14 +2,12 @@
   {
     "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/MovieBox/MovieBoxProvider.cs3",
     "status": 1,
-    "version": 26,
     "name": "MovieBox",
     "internalName": "MovieBox",
     "authors": [
       "Prime"
     ],
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 72427,
     "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
     "tvTypes": [
       "Movie",
