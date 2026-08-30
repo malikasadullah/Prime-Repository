@@ -19,28 +19,117 @@
     "apiVersion": 1,
     "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9"
   },
-{
-  "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTube.png",
-  "jarFileSize": 46472,
-  "fileHash": "sha256-a246eb1584cec9e69ba8c50136b9e8dc11a2fc0ab225710c31ad66c2ec4f4efe",
-  "apiVersion": 1,
-  "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
-  "fileSize": 13152,
-  "status": 1,
-  "authors": [
-    "Prime"
-  ],
-  "tvTypes": [
-    "Others",
-    "Live",
-    "TvSeries"
-  ],
-  "version": 1,
-  "internalName": "YouTube",
-  "jarUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTubeProvider.jar",
-  "description": "Watch YouTube in Cloudstream",
-  "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTubeProvider.cs3",
-  "name": "YouTube",
-  "jarHash": "sha256-0d83e79f196464e50b8b1aa4c13683b2428fc3556651a0d190981c1149b3ea41"
-}
+  {
+    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTubeProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "YouTube",
+    "internalName": "YouTube",
+    "authors": [
+      "Prime"
+    ],
+    "description": "Watch YouTube in Cloudstream",
+    "fileSize": 13152,
+    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+    "tvTypes": [
+      "Others",
+      "Live",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTube.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-a246eb1584cec9e69ba8c50136b9e8dc11a2fc0ab225710c31ad66c2ec4f4efe"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/StreamPlay/StreamPlay.cs3",
+    "status": 1,
+    "version": 661,
+    "name": "StreamPlay",
+    "internalName": "StreamPlay",
+    "authors": [
+      "Prime"
+    ],
+    "description": "#1 best extention based on MultiAPI",
+    "fileSize": 1020168,
+    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie",
+      "Cartoon",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/StreamPlay/StreamPlay.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-98f5bfae9c689d425b1e59f88cc841d30bb9ee3d2a2a9cb65c564bdb2c7008fd"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/CineStream/CineStream.cs3",
+    "status": 1,
+    "version": 481,
+    "name": "CineStream",
+    "internalName": "CineStream",
+    "authors": [
+      "Prime"
+    ],
+    "description": "One stop solution for Movies, Series, Anime and Torrents",
+    "fileSize": 731446,
+    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama",
+      "Anime",
+      "Torrent"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/CineStream/CineStream.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-0bae959eca25630f9c738c4286c8bd82d010def0d9b2af8a88180184fcb56893"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/FourKHDHub/FourKHDHub.cs3",
+    "status": 1,
+    "version": 36,
+    "name": "FourKHDHub",
+    "internalName": "FourKHDHub",
+    "authors": [
+      "Prime"
+    ],
+    "description": "Watch content from 4KHDHub",
+    "fileSize": 66777,
+    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/FourKHDHub/4KHDHub.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-d4defff18809ab57a5617a83ebd8ca836ac4f502bef693024e79558bec9cebc9",
+    "jarFileSize": 293813,
+    "jarUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/FourKHDHub/FourKHDHub.jar",
+    "jarHash": "sha256-bed933118286154fef82074e7dab1d34fde3cb1ef9201d7460face1f87595dd6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/VegaMovies/VegaMovies.cs3",
+    "status": 1,
+    "version": 82,
+    "name": "VegaMovies",
+    "internalName": "VegaMovies",
+    "authors": [
+      "megix"
+    ],
+    "description": "Watch content from VegaMovies",
+    "fileSize": 41565,
+    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama",
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/VegaMovies/VegaMovies.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-b78635ef4f2f66c134184552fe5e4956cc02ec1c5ce6d6811cccfd3747367883"
+  }
 ]
