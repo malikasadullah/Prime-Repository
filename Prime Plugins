@@ -1,71 +1,5 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/MovieBox/MovieBoxProvider.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "MovieBox",
-    "internalName": "MovieBox",
-    "authors": [
-      "Prime"
-    ],
-    "description": "Watch content from MovieBox",
-    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/MovieBox/MovieBox.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTubeProvider.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "YouTube",
-    "internalName": "YouTube",
-    "authors": [
-      "Prime"
-    ],
-    "description": "Watch content from YouTube",
-    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live",
-      "Others"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTube.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-a246eb1584cec9e69ba8c50136b9e8dc11a2fc0ab225710c31ad66c2ec4f4efe",
-    "jarFileSize": 46472,
-    "jarUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTubeProvider.jar",
-    "jarHash": "sha256-0d83e79f196464e50b8b1aa4c13683b2428fc3556651a0d190981c1149b3ea41"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/StreamPlay/StreamPlay.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "StreamPlay",
-    "internalName": "StreamPlay",
-    "authors": [
-      "Prime"
-    ],
-    "description": "Watch content from StreamPlay",
-    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Cartoon",
-      "Torrent"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/StreamPlay/StreamPlay.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-98f5bfae9c689d425b1e59f88cc841d30bb9ee3d2a2a9cb65c564bdb2c7008fd"
-  },
-  {
     "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/CineStream/CineStream.cs3",
     "status": 1,
     "version": 1,
@@ -96,7 +30,7 @@
     "authors": [
       "Prime"
     ],
-    "description": "Watch content from 4KHDHub",
+    "description": "Watch content from FourKHDHub",
     "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
     "tvTypes": [
       "Movie",
@@ -109,6 +43,67 @@
     "jarFileSize": 293813,
     "jarUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/FourKHDHub/FourKHDHub.jar",
     "jarHash": "sha256-bed933118286154fef82074e7dab1d34fde3cb1ef9201d7460face1f87595dd6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/MovieBox/MovieBoxProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "MovieBox",
+    "internalName": "MovieBox",
+    "authors": [
+      "Prime"
+    ],
+    "description": "Watch content from MovieBox",
+    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/MovieBox/MovieBox.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/NetMirror/NetMirror.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "NetMirror",
+    "internalName": "NetMirror",
+    "authors": [
+      "Prime"
+    ],
+    "description": "Watch content from NetMirror",
+    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/NetMirror/NetMirror.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-a0581fe6686feb4ab544807bc6f23a06e2c7f60618b1bdbe55d7c21a87739435"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/StreamPlay/StreamPlay.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "StreamPlay",
+    "internalName": "StreamPlay",
+    "authors": [
+      "Prime"
+    ],
+    "description": "Watch content from StreamPlay",
+    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Cartoon",
+      "Torrent"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/StreamPlay/StreamPlay.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-98f5bfae9c689d425b1e59f88cc841d30bb9ee3d2a2a9cb65c564bdb2c7008fd"
   },
   {
     "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/VegaMovies/VegaMovies.cs3",
@@ -129,5 +124,29 @@
     "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/VegaMovies/VegaMovies.png",
     "apiVersion": 1,
     "fileHash": "sha256-b78635ef4f2f66c134184552fe5e4956cc02ec1c5ce6d6811cccfd3747367883"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTubeProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "YouTube",
+    "internalName": "YouTube",
+    "authors": [
+      "Prime"
+    ],
+    "description": "Watch content from YouTube",
+    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live",
+      "Others"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTube.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-a246eb1584cec9e69ba8c50136b9e8dc11a2fc0ab225710c31ad66c2ec4f4efe",
+    "jarFileSize": 46472,
+    "jarUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/YouTube/YouTubeProvider.jar",
+    "jarHash": "sha256-0d83e79f196464e50b8b1aa4c13683b2428fc3556651a0d190981c1149b3ea41"
   }
 ]
