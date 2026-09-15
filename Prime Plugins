@@ -45,23 +45,23 @@
     "jarHash": "sha256-bed933118286154fef82074e7dab1d34fde3cb1ef9201d7460face1f87595dd6"
   },
   {
-    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/Kartoons/Kartoons.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "Kartoons",
-    "internalName": "Kartoons",
-    "authors": [
-      "Prime"
-    ],
-    "description": "Watch content from Kartoons",
-    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
-    "tvTypes": [
-      "Anime",
-      "Cartoon"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/Kartoons/Kartoons.png",
-    "apiVersion": 1
-  },
+  "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/Kartoons/Kartoons.cs3",
+  "status": 1,
+  "version": 1,
+  "name": "Kartoons",
+  "internalName": "Kartoons",
+  "authors": [
+    "Prime"
+  ],
+  "description": "Watch content from Kartoons",
+  "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+  "tvTypes": [
+    "Anime",
+    "Cartoon"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/Kartoons/Kartoons.png",
+  "apiVersion": 1
+},
   {
     "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/MovieBox/MovieBoxProvider.cs3",
     "status": 1,
