@@ -45,23 +45,23 @@
     "jarHash": "sha256-bed933118286154fef82074e7dab1d34fde3cb1ef9201d7460face1f87595dd6"
   },
   {
-  "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/Kartoons/Kartoons.cs3",
-  "status": 1,
-  "version": 1,
-  "name": "Kartoons",
-  "internalName": "Kartoons",
-  "authors": [
-    "Prime"
-  ],
-  "description": "Watch content from Kartoons",
-  "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
-  "tvTypes": [
-    "Anime",
-    "Cartoon"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/Kartoons/Kartoons.png",
-  "apiVersion": 1
-},
+    "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/Kartoons/Kartoons.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Kartoons",
+    "internalName": "Kartoons",
+    "authors": [
+      "Prime"
+    ],
+    "description": "Watch content from Kartoons",
+    "repositoryUrl": "https://github.com/malikasadullah/Prime-Repository",
+    "tvTypes": [
+      "Anime",
+      "Cartoon"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/Kartoons/Kartoons.png",
+    "apiVersion": 1
+  },
   {
     "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/MovieBox/MovieBox.cs3",
     "status": 1,
@@ -80,7 +80,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/MovieBox/MovieBox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f4500a9ea2890b89cd66521792d424227109616b35377c3782ebddc40801f804"
+    "fileHash": "sha256-759b2216ed74c7f7b8910aef30c2c0010051be893af9a183e8922450141092e1"
   },
   {
     "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/NetMirror/NetMirror.cs3",
