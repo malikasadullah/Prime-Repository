@@ -1,4 +1,4 @@
-```json
+[
 {
     "url": "https://raw.githubusercontent.com/malikasadullah/Prime-Repository/builds/StreamPlay.cs3",
     "status": 1,
@@ -25,5 +25,5 @@
     "apiVersion": 1,
     "fileHash": "sha256-47d30083078c1dd574c81f8ffb13118efa3d3d3ee1f966e098154e14f0b9247b"
 }
-```
+]
 
